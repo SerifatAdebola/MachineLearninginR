@@ -11,10 +11,4 @@ dependencies:
   - r-reshape2
   - r-tidyverse
   - r-caret(dependencies=True)
-  - pip
-  - pip:
-    - pandas
-    - matplotlib
-    - numpy
-    - scipy
-    - scikit-learn
+
