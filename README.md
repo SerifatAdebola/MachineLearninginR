@@ -1,5 +1,5 @@
-# MachineLearning
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SerifatAdebola/MachineLearning.git/HEAD)
+# MachineLearninginR
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SerifatAdebola/MachineLearninginR.git/HEAD)
 
 
 #[Citation]
