@@ -3,4 +3,4 @@
 
 
 #[Citation]
-(https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+Original Instructions from "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
